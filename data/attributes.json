@@ -1,0 +1,30 @@
+{
+  "fire": {
+    "name": "炎",
+    "defaultColor": "#FF4500"
+  },
+  "water": {
+    "name": "水",
+    "defaultColor": "#1E90FF"
+  },
+  "tree": {
+    "name": "樹",
+    "defaultColor": "#228B22"
+  },
+  "thunder": {
+    "name": "雷",
+    "defaultColor": "#FFD700"
+  },
+  "light": {
+    "name": "光",
+    "defaultColor": "#FFFFE0"
+  },
+  "dark": {
+    "name": "闇",
+    "defaultColor": "#4B0082"
+  },
+  "none": {
+    "name": "無",
+    "defaultColor": "#A9A9A9"
+  }
+}

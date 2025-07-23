@@ -1,0 +1,18 @@
+[
+  {
+    "id": "bb_lexis-desperado",
+    "name": "レクシス",
+    "imageUrl": "/assets/icons/bb/bb_lexis-desperado.png",
+    "rarity": "L",
+    "attribute": "none",
+    "type": "bb_memoria"
+  },
+  {
+    "id": "bb_phazon",
+    "name": "フェイゾン",
+    "imageUrl": "/assets/icons/bb/bb_phazon.png",
+    "rarity": "L",
+    "attribute": "none",
+    "type": "bb_memoria"
+  }
+]
