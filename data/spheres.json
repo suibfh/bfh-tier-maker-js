@@ -2,7 +2,7 @@
   {
     "id": "sphere-test-001",
     "name": "テストスフィア",
-    "imageUrl": "/assets/icons/sphere/sphere_test.png",
+    "imageUrl": "assets/icons/sphere/sphere_test.png",
     "rarity": "L",
     "attribute": "none",
     "type": "sphere"
@@ -10,7 +10,7 @@
   {
     "id": "sphere-test-002",
     "name": "テスト2",
-    "imageUrl": "/assets/icons/sphere/sphere_test2.png",
+    "imageUrl": "assets/icons/sphere/sphere_test2.png",
     "rarity": "L",
     "attribute": "none",
     "type": "sphere"

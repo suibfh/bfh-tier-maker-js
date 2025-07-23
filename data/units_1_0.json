@@ -2,7 +2,7 @@
   {
     "id": "u1_vargas",
     "name": "炎のVargas",
-    "imageUrl": "/assets/icons/u1/u1_fire_vargas.png",
+    "imageUrl": "assets/icons/u1/u1_fire_vargas.png",
     "rarity": "LL",
     "attribute": "fire",
     "type": "1.0_unit"
@@ -10,7 +10,7 @@
   {
     "id": "u1_eze",
     "name": "雷のEze",
-    "imageUrl": "/assets/icons/u1/u1_thunder_eze.png",
+    "imageUrl": "assets/icons/u1/u1_thunder_eze.png",
     "rarity": "LL",
     "attribute": "thunder",
     "type": "1.0_unit"
@@ -18,7 +18,7 @@
   {
     "id": "u1_lance",
     "name": "樹のLance",
-    "imageUrl": "/assets/icons/u1/u1_tree_lance.png",
+    "imageUrl": "assets/icons/u1/u1_tree_lance.png",
     "rarity": "LL",
     "attribute": "tree",
     "type": "1.0_unit"
@@ -26,7 +26,7 @@
   {
     "id": "u1_selena",
     "name": "水のSelena",
-    "imageUrl": "/assets/icons/u1/u1_water_selena.png",
+    "imageUrl": "assets/icons/u1/u1_water_selena.png",
     "rarity": "LL",
     "attribute": "water",
     "type": "1.0_unit"
@@ -34,7 +34,7 @@
   {
     "id": "u1_atro",
     "name": "光のatro",
-    "imageUrl": "/assets/icons/u1/u1_light_atro.png",
+    "imageUrl": "assets/icons/u1/u1_light_atro.png",
     "rarity": "LL",
     "attribute": "light",
     "type": "1.0_unit"
@@ -42,7 +42,7 @@
   {
     "id": "u1_magress",
     "name": "闇のmagress",
-    "imageUrl": "/assets/icons/u1/u1_dark_magress.png",
+    "imageUrl": "assets/icons/u1/u1_dark_magress.png",
     "rarity": "LL",
     "attribute": "dark",
     "type": "1.0_unit"
